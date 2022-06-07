@@ -13,10 +13,7 @@ const Service = () => {
                   <h3>UI/UX Design</h3>
                 </div>
                     <ul className="service__list">
-                        {/* <li>
-                        <FaCheckSquare className="service__list-icon" />
-                        <p>Interactive graphic design</p>
-                        </li> */}
+
                         <li>
                         <FaCheckSquare className="service__list-icon" />
                         <p>Dynamic design</p>
@@ -47,26 +44,6 @@ const Service = () => {
                         </li>
                     </ul>
               </article>
-            {/* WEB Development */}
-            {/* <article className="service">
-                <div className="service__head">
-                  <h3>Content Creation</h3>
-                </div>
-                    <ul className="service__list">
-                        <li>
-                        <FaCheckSquare className="service__list-icon" />
-                        <p></p>
-                        </li>
-                        <li>
-                        <FaCheckSquare className="service__list-icon" />
-                        <p>lerom</p>
-                        </li>
-                        <li>
-                        <FaCheckSquare className="service__list-icon" />
-                        <p>lerom</p>
-                        </li>
-                    </ul>
-              </article> */}
           </div>
 
 
