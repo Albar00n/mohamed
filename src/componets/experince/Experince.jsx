@@ -39,13 +39,14 @@ const Experince = () => {
               <small className="text-light">EXperienced</small>
             </div>
             </article>
+
             <article className="experince__details">
               <BsShieldFillCheck className="experince__details-icon" />
            <div>
-           <h4>React</h4>
+           <h4>React Js</h4>
               <small className="text-light">Intermediate</small>
            </div>
-            </article> <br />
+            </article>
             <article className="experince__details">
               <BsShieldFillCheck className="experince__details-icon" />
            <div>
@@ -53,6 +54,14 @@ const Experince = () => {
               <small className="text-light">Intermediate</small>
            </div>
             </article>
+            <article className="experince__details">
+              <BsShieldFillCheck className="experince__details-icon" />
+           <div>
+           <h4>WebAR & VR</h4>
+              <small className="text-light">Intermediate</small>
+           </div>
+            </article>
+
 
           </div>
         </div>
@@ -71,14 +80,14 @@ const Experince = () => {
               <BsShieldFillCheck className="experince__details-icon" />
              <div>
              <h4>Next Js</h4>
-              <small className="text-light">Intermediate</small>
+              <small className="text-light">EXperienced</small>
              </div>
             </article>
             <article className="experince__details">
               <BsShieldFillCheck className="experince__details-icon" />
              <div>
              <h4>MongoDB</h4>
-              <small className="text-light">EXperienced</small>
+              <small className="text-light">Intermediate</small>
              </div>
             </article>
 

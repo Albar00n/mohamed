@@ -11,8 +11,9 @@ const Contact = () => {
   const sendEmail = (e) => {
     e.preventDefault();
 
-    emailjs.sendForm('service_k5vjrah', 'template_razchah', form.current, 'e2S4DcJNxPge4El9X')
+    emailjs.sendForm('service_k5vjrah', 'template_u44frgd', form.current, 'e2S4DcJNxPge4El9X')
      e.target.reset()
+    //  alert("Thank's for your Message")
   };
 
   return (
@@ -25,7 +26,7 @@ const Contact = () => {
           <article className="contact__option">
             <AiOutlineMail className="contact__option-icon"/>
             <h4>Email</h4>
-           
+
             <a href="albaron.net" target="_blank">Send me</a>
           </article>
           <article className="contact__option">
@@ -38,7 +39,7 @@ const Contact = () => {
             <BsWhatsapp className="contact__option-icon"/>
             <h4>WhatsApp</h4>
 
-            <a href="https://api.whatsapp.com/send?phone=123456" target="_blank">Send me</a>
+            <a href="https://api.whatsapp.com/send?phone=00971505643394" target="_blank">Send me</a>
           </article>
         </div>
         {/* END conatct Options */}

@@ -10,8 +10,8 @@ import IMGI3 from '../../assets/e.jpeg'
      id:1,
      image:IMGI,
      title:'Crypto',
-     github:'https://github.com',
-     demo: 'https://albaron.net'
+     
+     demo: 'https://earth-gl-albar00n.vercel.app/'
    },
    {
     id:2,
