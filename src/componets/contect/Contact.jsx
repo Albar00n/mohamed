@@ -13,7 +13,6 @@ const Contact = () => {
 
     emailjs.sendForm('service_k5vjrah', 'template_u44frgd', form.current, 'e2S4DcJNxPge4El9X')
      e.target.reset()
-    //  alert("Thank's for your Message")
   };
 
   return (
